@@ -5,6 +5,7 @@ int main(){
     for(int i=1;i<=5;i=i+1){
         printf("hello world \n");
  }
+ // i=i+1  =  i++
  for(int i=1;i<=199;i=i+1){
     printf("%d \n",i);
  }
