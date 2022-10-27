@@ -1,4 +1,3 @@
-//giving error
 #include <stdio.h>
 void namaste();
 void bonjour();
@@ -6,7 +5,7 @@ void main(){
     printf("I for indian and F for french: ");
     char ch;
     scanf("%c", &ch);
-    if(ch == "I"){
+    if(ch == 'I'){
         namaste();
     }else{
         bonjour();
