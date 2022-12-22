@@ -13,7 +13,7 @@
    printf("%u\n",&age);//%u use to convert that into a more readable integer
    printf("%u\n",ptr);//
    printf("%u\n",&ptr);//
-   printf("%u\n",&_age);////
+   printf("%u\n",&_age);//////
 
    
    }
