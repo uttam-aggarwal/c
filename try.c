@@ -11,7 +11,7 @@
    printf("%d\n",_age);
    printf("%p\n",&age);//%p use to print address
    printf("%u\n",&age);//%u use to convert that into a more readable integer
-   printf("%u\n",ptr);//////
+   printf("%u\n",ptr);///
    printf("%u\n",&ptr);
    printf("%u\n",&_age);
 
