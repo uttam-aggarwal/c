@@ -17,5 +17,5 @@ void reversearr(int arr[],int n){
         int firstval=arr[i];
         int secondval=arr[n-i-1];
         arr[i]=secondval;
-        arr[n-i-1]=firstval;
+        arr[n-i-1]=firstval;//
 }}
