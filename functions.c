@@ -5,7 +5,7 @@ void printgoodbye();
 int sum(int a,int b);
 int main(){
     //calling a function
-    printhello();/
+    printhello();//
     printgoodbye();
     printf("%d",sum(8,9));
     return 0;
