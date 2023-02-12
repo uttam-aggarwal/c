@@ -34,7 +34,7 @@ int main(){
     chr=fgetc(fptr);
     while(chr!=EOF){//EOF is end of file
         printf("%c",chr);
-        chr=fgetc(fptr);
+        chr=fgetc(fptr);//
     }
     fclose(fptr);
 }
