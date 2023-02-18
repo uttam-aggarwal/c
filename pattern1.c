@@ -1,3 +1,4 @@
+//accidental discovery
 #include <stdio.h>
 int main()
 {
@@ -17,8 +18,6 @@ int main()
    for(int i =0;i<n;i++){
     a=a+2;
    }
-   printf("%d\n",a);
-   
    for(int i=1;i<=a;i++){
     for(int j=1;j<=a;j++){
         for(int k=0;k<n;k++){
