@@ -11,7 +11,7 @@ struct student{
 //     int roll;
 //     float marks;
 //     char name[100];
-// }COE;
+// }COE;//
 int main(){
     // struct student ECE[100];
     // ECE[0].roll=1994;

@@ -33,7 +33,7 @@ int main()
                 }}
                 else
                 {
-                    if(j == n - k || j == n + k){/
+                    if(j == n - k || j == n + k){
                     printf("%d ", n + k - 1);}
                 }
             }
