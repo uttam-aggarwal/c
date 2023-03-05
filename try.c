@@ -57,7 +57,7 @@
 #include <stdlib.h>
 
 int main() {
-    int l,r,k,count=0;
+    int l,r,k,count=0;//
     scanf("%d",&l);
     scanf("%d",&r);
     scanf("%d",&k);
