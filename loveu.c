@@ -7,7 +7,7 @@ int main(){
     // else printf("odd");
     // else printf("wrong");
     int sum;
-    sum=2<<3+5&&2+9%2*6;//
+    sum=2<<3+5&&2+9%2*6;
     printf("%d",sum);
     
     return 0;
