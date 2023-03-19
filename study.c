@@ -5,7 +5,7 @@ int main(){
     // // float a= 654.1239;
     // // printf("%.3f",a);
     // printf("%lf",a);//
-
+///
     func1(1,2,3);
     }
 int func1(int a,int b,int c ){
