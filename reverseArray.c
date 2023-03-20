@@ -1,7 +1,7 @@
 #include <stdio.h>
 void printarr(int arr[],int n);
 void reversearr(int arr[],int n);
-int main(){
+int main(){//
     int arr1[]={1,2,3,4};
     reversearr(arr1,4);
     printarr(arr1,4);
