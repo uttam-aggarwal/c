@@ -6,7 +6,7 @@ int main(){
     reversearr(arr1,4);
     printarr(arr1,4);//
 }
-void printarr(int arr[],int n){
+void printarr(int arr[],int n){//
     for (int i = 0; i < n; i++){
         printf("%d \t",arr[i]);
     }
