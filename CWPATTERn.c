@@ -26,6 +26,6 @@ void pattern2(){
             printf("%c  ",a);
             a++;
         }
-        printf("\n");//
+        printf("\n");
     }
 }
