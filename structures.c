@@ -2,7 +2,7 @@
 #include <string.h>
 struct student{
     int roll;
-    float marks;//
+    float marks;
     char name[100];
 };//don't forget this semi-colon here
 // -----------------------------------------
