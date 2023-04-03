@@ -15,7 +15,7 @@ struct student{
 int main(){
     // struct student ECE[100];
     // ECE[0].roll=1994;
-    // ECE[0].marks=98.9;
+    // ECE[0].marks=98.9;//
 
     // strcpy(ECE[0].name,"uttam");
     // printf("name is %s",ECE[0].name);
