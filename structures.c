@@ -3,7 +3,7 @@
 struct student{
     int roll;
     float marks,none;
-    char name[100];//
+    char name[100];
 };//don't forget this semi-colon here
 // -----------------------------------------
 //you can create alias of a struct name (short form for it like the following code)
