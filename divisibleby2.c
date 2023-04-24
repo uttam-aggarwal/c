@@ -1,6 +1,6 @@
 //Q) to check whether a number is divisible by 2 or not
 #include <stdio.h>
-int main(){
+int main(){//
     int a;
     printf("enter a number to check ");
     scanf("%d",&a);
